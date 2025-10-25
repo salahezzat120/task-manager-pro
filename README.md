@@ -14,7 +14,7 @@
 ---
 
 ## 🖼️ Application Preview
-![Task Manager Dashboard](https://via.placeholder.com/800x400/1e293b/ffffff?text=Task+Manager+Pro+Dashboard)
+![Task Manager Dashboard](banner(2).png)
 
 ---
 
