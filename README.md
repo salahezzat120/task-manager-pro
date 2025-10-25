@@ -14,7 +14,7 @@
 ---
 
 ## 🖼️ Application Preview
-![Task Manager Dashboard](https://via.placeholder.com/800x400/1e293b/ffffff?text=Task+Manager+Pro+Dashboard)
+![Task Manager Dashboard](banner(2).png)
 
 ---
 
@@ -258,17 +258,6 @@ cd backend && php test-api.ps1
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
----
 
 ## 📄 License
 
@@ -287,10 +276,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support & Contact
 
-- **📧 Email**: support@taskmanagerpro.com
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/task-manager-pro/issues)
-- **📖 Documentation**: [Wiki](https://github.com/yourusername/task-manager-pro/wiki)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/yourusername/task-manager-pro/discussions)
+- **📧 Email**: salahezzat120@gmail.com
+- **🐛 Issues**: [GitHub Issues](https://github.com/salahezzat120/task-manager-pro/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/salahezzat120/task-manager-pro/discussions)
 
 ---
 
