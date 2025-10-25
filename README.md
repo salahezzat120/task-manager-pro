@@ -287,10 +287,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support & Contact
 
-- **📧 Email**: support@taskmanagerpro.com
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/task-manager-pro/issues)
-- **📖 Documentation**: [Wiki](https://github.com/yourusername/task-manager-pro/wiki)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/yourusername/task-manager-pro/discussions)
+- **📧 Email**: salahezzat120@gmail.com
+- **🐛 Issues**: [GitHub Issues](https://github.com/salahezzat120/task-manager-pro/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/salahezzat120/task-manager-pro/discussions)
 
 ---
 
